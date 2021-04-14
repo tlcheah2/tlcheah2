@@ -1,5 +1,7 @@
 ### Hi, I'm Tek Loon 👋 , and thanks for visiting my profile.
 
+---
+
 **I am a Full-Stack Javascript Developer, but primarily focus in backend for the past 2 years.**
 
 - 💻 I work with [OPC](https://www.opcbiz.com) as an Backend Engineer, helping the company and the team to grow.
