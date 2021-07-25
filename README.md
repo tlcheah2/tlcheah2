@@ -6,7 +6,7 @@
 
 - 💻 I work with [OPC](https://www.opcbiz.com) as an Backend Engineer, helping the company and the team to grow.
 
-- ✍🏻 I love to share and consolidate my learning by writing blog post. I have written **59 articles** in my own [blog](https://tekloon.dev) and [Medium](https://tekloon.medium.com/).
+- ✍🏻 I love to share and consolidate my learning by writing blog post. I have written **69 articles** in my own [blog](https://tekloon.dev) and [Medium](https://tekloon.medium.com/).
 
 - ⌨️ I post Daily AWS Quiz at my Linkedin and Twitter as part of my learning strategy.
 
