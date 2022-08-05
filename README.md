@@ -2,13 +2,11 @@
 
 ---
 
-**I am a Full-Stack Javascript Developer, primarily focus in backend development for the past 2 years.**
+**I am a Full-Stack Javascript/Typescript Developer, primarily focus in backend development for the past 2 years.**
 
-- 💻 I work with [OPC](https://www.opcbiz.com) as an Backend Engineer, helping the company and the team to grow.
+- 💻 I work with [X-Team](https://x-team.com/) as an Senior Software Engineer, helping the company and the team to grow.
 
 - ✍🏻 I love to share and consolidate my learning by writing blog post. I have written **69 articles** in my own [blog](https://tekloon.dev) and [Medium](https://tekloon.medium.com/).
-
-- ⌨️ I post Daily AWS Quiz at my Linkedin and Twitter as part of my learning strategy.
 
 - 😄 I can speak Chinese, Malay, Chinese and Cantonese.
 
@@ -22,7 +20,7 @@
   - Total Money Makeover - Dave Ramsey
 
 ### Top 5 Technology/Framework/Libraries/ that I used daily NOW
-- Javascript
+- Typescirpt
 - [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com) & [Mongoose](https://mongoosejs.com/)
 - [Sequelize](https://sequelize.org/)
