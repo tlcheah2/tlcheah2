@@ -10,7 +10,7 @@
 
 - 😄 I can speak Chinese, Malay, Chinese and Cantonese.
 
-- 🌱 I am currently learning AWS and preparing myself for [certification](https://aws.amazon.com/certification/certified-developer-associate/) exam.
+- 🌱 I am currently learning to use NestJS in production project.
 
 - 🎸 My favourite band are Coldplay and One Ok Rock. They pump my mood up whenever I listened to their song.
 
