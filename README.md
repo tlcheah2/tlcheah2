@@ -4,9 +4,9 @@
 
 **I am a Full-Stack Javascript/Typescript Developer, primarily focus in backend development for the past 2 years.**
 
-- 💻 I work with [X-Team](https://x-team.com/) as an Senior Software Engineer, helping the company and the team to grow.
+- 💻 I work with [Power to the Brand](https://www.powertothebrand.com/) as an Founding Software Engineer, helping the company to build grow and build products that enteprises want.
 
-- ✍🏻 I love to share and consolidate my learning by writing blog post. I have written **69 articles** in my own [blog](https://tekloon.dev) and [Medium](https://tekloon.medium.com/).
+- ✍🏻 I love to share and consolidate my learning by writing blog post. I have written **69 articles** in my own [blog](https://tekloon.net) and [Medium](https://tekloon.medium.com/).
 
 - 😄 I can speak Chinese, Malay, Chinese and Cantonese.
 
