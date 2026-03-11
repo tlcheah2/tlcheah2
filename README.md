@@ -20,11 +20,11 @@
   - Total Money Makeover - Dave Ramsey
 
 ### Top 5 Technology/Framework/Libraries/ that I used daily NOW
-- Typescirpt
+- Typescript
+- Claude Agent SDK
+- Mastra AI
+- Stagehand 
 - [Express.js](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com) & [Mongoose](https://mongoosejs.com/)
-- [Sequelize](https://sequelize.org/)
-- [Rabbitmq](https://www.rabbitmq.com/)
 
 
 ### Find me on the Internet 🌏
