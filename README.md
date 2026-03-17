@@ -8,7 +8,7 @@
 
 - ✍🏻 I love to share and consolidate my learning by writing blog post. I have written more than **84 articles** at [Medium](https://tekloon.medium.com/).
 
-- 😄 I can speak Chinese, Malay, Chinese and Cantonese.
+- 😄 I can speak English, Malay, Chinese and Cantonese.
 
 - 🌱 I am currently learning to use NestJS in production project.
 
