@@ -6,7 +6,7 @@
 
 - 💻 I work with [Power to the Brand](https://www.powertothebrand.com/) as an Founding Software Engineer, helping the company to build grow and build products that enteprises want.
 
-- ✍🏻 I love to share and consolidate my learning by writing blog post. I have written more than **70 articles** in my own [blog](https://tekloon.net) and [Medium](https://tekloon.medium.com/).
+- ✍🏻 I love to share and consolidate my learning by writing blog post. I have written more than **84 articles** at [Medium](https://tekloon.medium.com/).
 
 - 😄 I can speak Chinese, Malay, Chinese and Cantonese.
 
