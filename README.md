@@ -10,7 +10,8 @@
 
 - 😄 I can speak English, Malay, Chinese and Cantonese.
 
-- 🌱 I am currently learning to use NestJS in production project.
+- 🌱 I am currently involve a lot in Generate AI and LLM domain.
+  - Some of the active exploration involve MCP, Stagehand, Custom Tool Calling and etc
 
 - 🎸 My favourite band are Coldplay and One Ok Rock. They pump my mood up whenever I listened to their song.
 
