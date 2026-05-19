@@ -21,6 +21,7 @@
   - Total Money Makeover - Dave Ramsey
  
 ### Top Articles I Wrote
+- [How to Build Your Own Newsletter Using Resend with Zero Cost](https://www.tekloon.net/blog/tech/how-to-build-your-own-newsletter-using-resend-with-zero-cost)
 - [How I Automate My Rental Property Management using Openclaw](https://medium.com/@tekloon/how-i-automate-my-rental-property-management-using-openclaw-7bbd9fd7a4f3)
 - [How I Setup Unit Test for MongoDB](medium.com/javascript-in-plain-english/how-i-setup-unit-test-for-mongodb-using-jest-mongoose-103b772ee164?source=stats_homepage--------------------------------------------)
 - [MongoDB Performance 101](https://medium.com/better-programming/mongodb-performance-101-how-to-improve-the-speed-of-mongodb-app-a59f2390ee5)
